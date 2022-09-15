@@ -41,6 +41,7 @@ There are many technologies that come together to make up the .NET Project Syste
 ![image](docs/repo/images/solution-explorer.png)
 
 ## How do I build the repository?
+DOTNET 
 This repository is built on .NET Framework and requires the .NET Framework version of [MSBuild](https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild?view=vs-2022) to build successfully. Additionally, there is a dependency on the [Visual Studio SDK](https://docs.microsoft.com/en-us/visualstudio/extensibility/starting-to-develop-visual-studio-extensions?view=vs-2022) as the .NET Project System is bundled as a Visual Studio Extension for deployment into Visual Studio.
 
 Here are the two ways to acquire the necessary components:
