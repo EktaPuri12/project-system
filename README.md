@@ -1,4 +1,4 @@
-# The .NET Project System for Visual Studio
+# The .NET Project System for Visual Studio Code
 
 | Release             | Unit Tests (Debug)                      | Unit Tests (Release)                      | Localization
 |---------------------|:---------------------------------------:|:-----------------------------------------:|:------------:
